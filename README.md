@@ -1,4 +1,4 @@
-# aula-3
+# aula 3
 # Processamento de Sinais de Áudio — Tons, Chirps e Simulação Acústica
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLOQUE_AQUI_O_LINK_DO_NOTEBOOK)
